@@ -7,3 +7,4 @@ class Student(BaseModel):
 
 class StudentResponse(Student):
     id: int
+
